@@ -21,7 +21,9 @@
 <br>
 <h3 align="center"> 😎 Me 😎 </h3>
 <p align="center">
-  <a href="gobae.tistory.com"><img src="https://img.shields.io/badge/Tech%20Blog-000000?style=flat-square&logo=Bloglovin&logoColor=white&link=gobae.tistory.com"/></a>&nbsp
+ </a>
+  <a href="https://gobae.tistory.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Tech%20Blog-000000?style=flat-square&logo=Bloglovin&logoColor=white"/></a>&nbsp
   <a href="mailto:jiho@dgu.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jiho@dgu.ac.kr"/></a>
 </p>
 <br>
