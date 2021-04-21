@@ -1,5 +1,4 @@
-<p align="center"> Hi, I like Front-end 😊</p>
-<p align="center">South Korea 🇰🇷</p>
+<p align="center"> Hi, I like Front-end 🙌</p>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
