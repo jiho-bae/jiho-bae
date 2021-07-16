@@ -1,4 +1,4 @@
-<p align="center"> Hi, I like Front-end 🙌</p>
+<p align="center"> Hi, I'll be a full-stack developer.😈</p>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
@@ -19,7 +19,7 @@
 </p>
 
 <br>
-<h3 align="center"> 😎 Me 😎 </h3>
+<h3 align="center"> 😊 About Me 😊 </h3>
 <p align="center">
  </a>
   <a href="https://gobae.tistory.com/" target="_blank">
