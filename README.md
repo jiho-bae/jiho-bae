@@ -17,9 +17,9 @@
 
 <h3>👀 Stats</h3>
 
-<img src="https://github-readme-stats.vercel.app/api?username=jiho-bae&show_icons=true&count_private=true&hide_border=true&theme=react" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=jiho-bae&show_icons=true&count_private=true&hide_border=true&theme=react" style="width: 400px" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiho-bae&hide_border=true&layout=compact&theme=react" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiho-bae&hide_border=true&layout=compact&theme=react" style="width: 400px" />
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hazard)](https://solved.ac/hazard/)
